@@ -25,8 +25,7 @@ class Food implements Serializable
                 break;
             case 3:price=quantity*70;
                 break;
-            case 4:price=quantity*30;
-                break;
+      
         }
     }
 }
